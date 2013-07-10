@@ -22,10 +22,10 @@ Only support single thread to download right now.
 See the mechanize library attached as a folder with this repo. Install it.
 Follow these steps for it.
 
-In case you are using the library attached in the mechanize folder with this code distribution.
+In case you are using the library attached in the mechanize folder with this code distribution.<br>
 [1] Do ```python setup.py install```
 
-In case you wish to install mechanize to your shell so that you can use it in projects later. Go ahead.
+In case you wish to install mechanize to your shell so that you can use it in projects later. Go ahead.<br>
 [1] Install pip.<br>
 [2] Do ```pip install mechanize```<br>
 [3] You can get pip from http://www.pip-installer.org/en/latest/ <br>
@@ -33,8 +33,8 @@ In case you wish to install mechanize to your shell so that you can use it in pr
 
 Once its installed.
 ```
-Run as: 'python coursera_downloader.py' will download to CWD.
-Run as: 'python coursera_downloader.py <dir>' will download to path <dir>.
+Run as: 'python downloadcourse.py' will download to CWD.
+Run as: 'python downloadcourse.py <dir>' will download to path <dir>.
 ```
 
 For download contents selection input, already handled common intuition from the beginning. 
